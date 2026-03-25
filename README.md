@@ -10,4 +10,4 @@ Thiết kế ALU 8-bit có khả năng thực hiện các phép toán: ADD, SUB,
   Carry: cờ nhớ (khi cộng/trừ vượt quá 8 bit).
   Overflow: cờ tràn số có dấu (ADD/SUB).
   Negative: cờ báo số âm (bit MSB của Result).
-  ![image alt] (https://github.com/cuongp27123-byte/ALU_8bit/blob/257e48d1a5660d2e770a7494a94f415304eaaecc/Screenshot%202025-11-28%20112534.png)
+  ![image alt](https://github.com/cuongp27123-byte/ALU_8bit/blob/257e48d1a5660d2e770a7494a94f415304eaaecc/Screenshot%202025-11-28%20112534.png)
